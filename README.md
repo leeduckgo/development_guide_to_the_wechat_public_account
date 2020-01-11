@@ -1,2 +1,2 @@
-# development_guide_to_the_wechat_public_account
-微信公众号开发指南
+# 微信公众号开发指南
+针对想「跨界」的新媒体爱好者的公众号开发指南。
